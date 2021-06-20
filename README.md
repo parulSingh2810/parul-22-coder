@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @parul-22-coder
-- :D I'm a programmer and blogger.
+- 👋 Helllo! 
+- 👩‍ I’m @parul-22-coder
+- 🏫 I'm a first year computer science undergraduate student at Graphic Era Hill University,Bhimtal.
+- 💻 I'm a programmer and blogger.
 - 👀 I’m interested in exploring new ideas and ready to gain knowledge.
 - 🌱 I’m currently learning programming language
-- 💞️ I’m looking to collaborate on .
+- 💞️ 
 - 📫 How to reach me ..
      This is my linkedin profile ---->
     --> https://www.linkedin.com/in/parul-singh-3155641a5/
