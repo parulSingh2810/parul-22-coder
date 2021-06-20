@@ -4,7 +4,14 @@
 - 💻 I'm a programmer and blogger.
 - 👀 I’m interested in exploring new ideas and ready to gain knowledge.
 - 🌱 I’m currently learning programming language
-- 💞️ 
+- 💞️  Skills:
+-    *  c
+-    *  c++
+-    *  Python
+-    *  Basic Java
+-    *  HTML5 
+-    *  CSS
+-    
 - 📫 How to reach me ..
      This is my linkedin profile ---->
     --> https://www.linkedin.com/in/parul-singh-3155641a5/
